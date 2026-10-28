@@ -1,0 +1,14 @@
+Nombre : bryan
+Apellidos : diaz
+Edad : 18
+Telefono : 6614807846
+Estatura : 1.55
+Genero : Masculino
+
+Nombre : bryan
+Apellidos : diaz
+Edad : 18
+Telefono : 9614807846
+Estatura : 1.56
+Genero : Masculino
+
